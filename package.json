@@ -16,5 +16,13 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "^7.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinacmiranda/cypress-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carolinacmiranda/cypress-basic/issues"
+  },
+  "homepage": "https://github.com/carolinacmiranda/cypress-basic#readme"
 }
